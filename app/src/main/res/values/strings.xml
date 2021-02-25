@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Assignment 1 Mobile Technologies</string>
+    <string name="welcome_to_the_app_please_click_start_below_to_begin_classifying_an_object">Welcome to the app. Please click start below to begin classifying an object.</string>
+</resources>
